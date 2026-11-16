@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Akhilender 👋</h1>
 
 <p align="left">
-  <b>Associate Engineer, Enterprise Cloud Security @ PwC Advisory</b><br/>
+  <b>AI Engineer, @ PwC </b><br/>
   I build secure AI systems enterprises trust: multi-agent and RAG systems taken from prototype to firm-wide deployment.
 </p>
 
